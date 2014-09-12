@@ -1,0 +1,35 @@
+section,aside {
+	display: block;
+}
+article {
+	background: #FFFBCC;
+	border:1px solid #999999;
+	padding: 20px;
+	margin-bottom: 15px;
+}
+
+#gee-mail {
+	width: 960px;
+	margin: 15px auto;
+	text-align: left;
+}
+
+#container {
+	width: 800px;
+	margin: 0 auto;
+	background-color: lightred;
+}
+
+#mySection {
+	float: left;
+	width: 660px;
+	margin: 20px;
+}
+
+#myAside {
+	float: left;
+	width: 220;
+	margin: 20px 0px;
+	padding: 20px;
+	background: #CCC;
+}
